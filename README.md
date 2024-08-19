@@ -107,7 +107,7 @@ vagrant reload
 vagrant ssh
 ```
 
-![image](https://github.com/Yogendraofficial7/Vagrant/blob/assets/20240819203755.png)
+![image](https://github.com/Yogendraofficial7/Vagrant/blob/faaf6ed2bee2b0e863bd4b51b734456ca56e2137/20240819203755.png)
 
    
 ```
@@ -141,9 +141,9 @@ C:\Users\Yogendra>curl http://127.0.0.1:8000
 open browser in windows host machine **http://localhost:8000**
 
 
-![image](https://github.com/Yogendraofficial7/Vagrant/blob/assets/20240819210545.png)
+![image](https://github.com/Yogendraofficial7/Vagrant/blob/faaf6ed2bee2b0e863bd4b51b734456ca56e2137/20240819210545.png)
 
-![image](https://github.com/Yogendraofficial7/Vagrant/blob/assets/20240819204234.png)
+![image](https://github.com/Yogendraofficial7/Vagrant/blob/faaf6ed2bee2b0e863bd4b51b734456ca56e2137/20240819204234.png)
 
 
 VAGRANT KEYS:
